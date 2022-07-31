@@ -1,2 +1,7 @@
 # Grupo12
-Grupo para realizar las practicas de la materia Electronica microcontrolada
+Integrantes:
+Rocio Pulitta
+Tadeo Zarate
+Samuel  Barrionuevo
+Marcos Nicolodi
+Silvana Barea
